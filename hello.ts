@@ -1,2 +1,3 @@
-const array: number[][] = [[1, 2]]
-console.log(array?.length)
+function hello() {
+  return "Hello!";
+}

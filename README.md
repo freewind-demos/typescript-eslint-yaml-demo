@@ -1,18 +1,7 @@
-TypeScript Hello World Demo
+TypeScript Eslint Demo
 ===========================
 
 ```
 npm install
-npm run demo
+npm run lint
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
