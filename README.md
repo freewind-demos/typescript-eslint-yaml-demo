@@ -1,5 +1,7 @@
-TypeScript Eslint Demo
+TypeScript Eslint Yaml Demo
 ===========================
+
+Use `.eslintrc.yaml`
 
 ```
 npm install
